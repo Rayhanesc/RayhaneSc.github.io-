@@ -1,0 +1,16 @@
+
+.box 
+ 
+{ 
+ text-decoration:none; 
+} 
+
+.h1{color: red;}
+
+#scrollUp
+{
+position: fixed;
+bottom : 10px;
+right: -100px;
+opacity: 0.5;
+}
